@@ -187,4 +187,5 @@
 6. Chapter2. 지도학습 - 로지스틱회귀 및 SVM에 대한 기본 이해
 
 ### 2022년 9월 25일
-1. Chapter2. 지도학습 - 의사결정나무(Decision Tree)에 대한 기본 이해
+1. Chapter2. 지도학습 - 의사결정나무(결정트리, Decision Tree)에 대한 기본 이해
+2. Chapter2. 지도학습 - 결정트리 앙상블(랜덤포레스트, Gradient Boosting) 기본 이해
