@@ -192,3 +192,6 @@
 3. Chapter2. 지도학습 - 기타 결정트리 앙상블(AdaBoost, 히스토그램 기반 부스팅) 기본 이해
 4. Chapter2. 지도학습 - SVM(RBF 커널)에 대한 기본 이해
 5. Chapter2. 지도학습 - 신경망(solver='adam', 'lbfgs')에 대한 기본 이해
+
+### 2022년 9월 26일
+1. Chapter2. 지도학습 - 분류의 불확실성 추정(predict_proba 등)에 대한 기본 이해
