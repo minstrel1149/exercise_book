@@ -214,4 +214,4 @@
 
 ### 2022년 10월 1일
 1. Chapter3. 비지도학습 - 데이터 스케일 변환에 대한 기본 이해(PowerTransformer 등)
-2. Chapter3. 비지도학습 - 주성분분석(PCA) 기본 이해(~ing)
+2. Chapter3. 비지도학습 - 주성분분석(PCA) 기본 이해
