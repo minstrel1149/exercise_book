@@ -218,4 +218,5 @@
 
 ### 2022년 10월 2일
 1. Chapter3. 비지도학습 - 비음수행렬분해(NMF), 매니폴드학습(t-SNE) 기본 이해
-2. Chapter3. 비지도학습 - K-means 클러스터링 기본 이해
+2. Chapter3. 비지도학습 - K-means, 병합군집(AgglomerativeClustering) 기본 이해
+3. Chapter3. 비지도학습 - DBSCAN(밀도 기반 클러스터링) 기본 이해
