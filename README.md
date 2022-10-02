@@ -221,3 +221,4 @@
 2. Chapter3. 비지도학습 - K-means, 병합군집(AgglomerativeClustering) 기본 이해
 3. Chapter3. 비지도학습 - DBSCAN(밀도 기반 클러스터링) 기본 이해
 4. Chapter3. 비지도학습 - 군집 알고리즘의 비교와 평가 기본 이해
+5. Chapter4. 데이터 표현과 특성공학 - 범주형 변수 다루기(원-핫 인코딩, make_column_transformer 등)
