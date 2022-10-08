@@ -246,3 +246,4 @@
 1. Chapter7. 텍스트 데이터 다루기 - BOW(bag of words, CountVertorizer) 기본 이해
 2. Chapter7. 텍스트 데이터 다루기 - TF-IDF 및 BOW_ngram 기본 이해
 3. Chapter7. 텍스트 데이터 다루기 - 고급 토큰화 및 표제어 추출(spacy 등) 기본 이해
+4. Chapter7. 텍스트 데이터 다루기 - 한글의 형태소 분석(KoNLPy의 okt) 기본 이해
