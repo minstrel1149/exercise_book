@@ -244,3 +244,4 @@
 
 ### 2022년 10월 8일
 1. Chapter7. 텍스트 데이터 다루기 - BOW(bag of words, CountVertorizer) 기본 이해
+1. Chapter7. 텍스트 데이터 다루기 - TF-IDF 및 BOW_ngram 기본 이해
