@@ -256,3 +256,4 @@
 4. Chapter2. 지도학습 - 로지스틱회귀 및 SVM('C' 파라미터)에 대한 기본 이해
 5. Chapter2. 지도학습 - 의사결정나무(결정트리, Decision Tree)에 대한 기본 이해
 6. Chapter2. 지도학습 - 결정트리 앙상블(랜덤포레스트, Gradient Boosting) 기본 이해
+7. Chapter2. 지도학습 - 기타 결정트리 앙상블(AdaBoost, 히스토그램 기반 부스팅) 기본 이해
