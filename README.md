@@ -263,3 +263,4 @@
 1. Chapter2. 지도학습 - 신경망(solver, hidden_layer_sizes 등)에 대한 기본 이해
 2. Chapter2. 지도학습 - 분류의 불확실성 추정(predict_proba 등)에 대한 기본 이해
 3. Chapter3. 비지도학습 - 데이터 스케일 변환(svm, 신경망 등에 효과)에 대한 기본 이해
+4. Chapter3. 비지도학습 - 주성분분석(PCA) 기본 이해
