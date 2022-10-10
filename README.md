@@ -258,3 +258,6 @@
 6. Chapter2. 지도학습 - 결정트리 앙상블(랜덤포레스트, Gradient Boosting) 기본 이해
 7. Chapter2. 지도학습 - 기타 결정트리 앙상블(AdaBoost, 히스토그램 기반 부스팅) 기본 이해
 8. Chapter2. 지도학습 - SVM(RBF 커널)에 대한 기본 이해
+
+### 2022년 10월 10일
+1. Chapter2. 지도학습 - 신경망(solver, hidden_layer_sizes 등)에 대한 기본 이해
