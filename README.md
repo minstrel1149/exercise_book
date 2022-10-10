@@ -261,3 +261,4 @@
 
 ### 2022년 10월 10일
 1. Chapter2. 지도학습 - 신경망(solver, hidden_layer_sizes 등)에 대한 기본 이해
+2. Chapter2. 지도학습 - 분류의 불확실성 추정(predict_proba 등)에 대한 기본 이해
