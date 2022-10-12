@@ -268,3 +268,6 @@
 
 ### 2022년 10월 11일
 1. Chapter3. 비지도학습 - K-means, 병합군집(AgglomerativeClustering) 기본 이해
+
+### 2022년 10월 12일
+1. Chapter3. 비지도학습 - DBSCAN(밀도 기반 클러스터링) 기본 이해
