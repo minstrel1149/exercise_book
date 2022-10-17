@@ -292,3 +292,6 @@
 3. Chapter6. 알고리즘 체인과 파이프라인 - 전처리와 모델 매개변수를 위한 그리드 서치 활용 기본 이해
 4. Chapter7. 텍스트 데이터 다루기 - BOW(bag of words, CountVertorizer) 기본 이해
 5. Chapter7. 텍스트 데이터 다루기 - TF-IDF 및 BOW_ngram 기본 이해
+
+### 2022년 10월 17일
+1. Chapter7. 텍스트 데이터 다루기 - 고급 토큰화 및 표제어 추출(spacy 등) 기본 이해
