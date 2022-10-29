@@ -344,4 +344,5 @@
 1. Chapter2. 데이터 핸들링(~ing)
 
 ### 2022년 10월 29일
-1. Chapter2. 데이터 핸들링(~ing)
+1. Chapter2. 데이터 핸들링
+2. Chapter3. EDA와 시각화
