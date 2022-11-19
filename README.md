@@ -347,6 +347,7 @@
 2. Chapter3. 비지도학습 - K-means 기본 이해
 3. Chapter3. 비지도학습 - 병합군집(AgglomerativeClustering), DBSCAN(밀도 기반 클러스터링) 기본 이해
 4. Chapter4. 데이터 표현과 특성공학 - 범주형 변수 다루기(원-핫 인코딩, make_column_transformer 등)
+5. Chapter4. 데이터 표현과 특성공학 - 구간 분할, 상호작용과 다항식 등 기본 이해
 
 
 ## ADP, 빅분기 대비 파이썬 끝내기
