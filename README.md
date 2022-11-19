@@ -346,6 +346,7 @@
 1. Chapter3. 비지도학습 - 비음수행렬분해(NMF), 매니폴드학습(t-SNE) 기본 이해
 2. Chapter3. 비지도학습 - K-means 기본 이해
 3. Chapter3. 비지도학습 - 병합군집(AgglomerativeClustering), DBSCAN(밀도 기반 클러스터링) 기본 이해
+4. Chapter4. 데이터 표현과 특성공학 - 범주형 변수 다루기(원-핫 인코딩, make_column_transformer 등)
 
 
 ## ADP, 빅분기 대비 파이썬 끝내기
