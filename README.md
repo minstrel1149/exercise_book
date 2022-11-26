@@ -368,7 +368,8 @@
 2. Chapter7. 텍스트 데이터 다루기 - TF-IDF 및 BOW_ngram 기본 이해
 
 ### 2022년 11월 26일
-1. Chapter7. 텍스트 데이터 다루기 - 고급 토큰화 및 표제어 추출(spacy 등), 한글의 형태소 분석(KoNLPy의 okt) 기본 이해
+1. Chapter7. 텍스트 데이터 다루기 - 고급 토큰화 및 표제어 추출(spacy 등) 및 한글의 형태소 분석(KoNLPy의 okt) 기본 이해
+2. Chapter7. 텍스트 데이터 다루기 - 한글 형태소 분석(spacy-korean) 및 토픽 모델링과 문서 군집화(LDA) 기본 이해
 
 
 ## ADP, 빅분기 대비 파이썬 끝내기
