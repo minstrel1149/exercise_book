@@ -500,3 +500,4 @@
 1. Section 2.3 - 행렬식의 응용
 2. Chapter 2. 행렬식 복습
 3. Section 3.1 - 벡터의 정의
+4. Section 3.2 - 벡터의 내적
