@@ -541,3 +541,4 @@
 4. Section 6.4 - 특잇값 분해(Singular Value Decomposition)
 5. Section 6.5 - 고윳값과 고유벡터의 응용
 6. Chapter 6. 고윳값과 고유벡터 복습
+7. Chapter 4. 벡터공간 복습(~ing)
