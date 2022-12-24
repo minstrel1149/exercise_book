@@ -538,3 +538,4 @@
 1. Section 6.1 - 고유값과 고유벡터
 2. Section 6.2 - 행렬의 대각화
 3. Section 6.3 - 대칭행렬의 직교대각화
+4. Section 6.4 - 특잇값 분해(Singular Value Decomposition)
