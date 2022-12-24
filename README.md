@@ -535,8 +535,9 @@
 1. Chapter 5. 선형변환 복습
 
 ### 2022년 12월 24일
-1. Section 6.1 - 고유값과 고유벡터
+1. Section 6.1 - 고윳값과 고유벡터
 2. Section 6.2 - 행렬의 대각화
 3. Section 6.3 - 대칭행렬의 직교대각화
 4. Section 6.4 - 특잇값 분해(Singular Value Decomposition)
-5. Section 6.5 - 고유값과 고유벡터의 응용
+5. Section 6.5 - 고윳값과 고유벡터의 응용
+6. Chapter 6. 고윳값과 고유벡터 복습
