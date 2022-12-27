@@ -566,3 +566,5 @@
 3. Section 3.3 - 벡터의 외적
 4. Section 3.4 - n차원 벡터
 5. Section 3.5 - 벡터의 응용
+6. Section 4.1 - 벡터공간과 부분공간
+7. Section 4.2 - 일차독립과 일차종속
