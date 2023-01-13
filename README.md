@@ -621,3 +621,4 @@
 2. Section 1.2 - 꼭 필요한 함수 목록
 3. Section 1.3 - 함수의 극한
 4. Section 1.4 - 극한 계산
+5. Section 1.5 - 연속성
