@@ -629,3 +629,5 @@
 3. Section 2.1 - 역함수
 4. Section 2.2 - 지수함수
 5. Section 2.3 - 로그함수
+6. Section 2.4 - 역삼각함수
+7. Section 2.5 - 쌍곡선함수
