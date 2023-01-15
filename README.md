@@ -646,3 +646,5 @@
 5. Chapter 3. 도함수 복습
 6. Section 4.1 - 최댓값과 최솟값
 7. Section 4.2 - 평균값 정리
+8. Section 4.3 - 도함수와 그래프의 모양
+9. Section 4.4 - 곡선 그리기
