@@ -641,3 +641,5 @@
 ### 2023년 1월 15일
 1. Section 3.6 - 음함수(implicit function)의 미분법
 2. Section 3.7 - 역함수의 도함수
+3. Section 3.8 - 관련된 비율
+4. Section 3.9 - 선형 근사와 미분
