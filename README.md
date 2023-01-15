@@ -643,4 +643,4 @@
 2. Section 3.7 - 역함수의 도함수
 3. Section 3.8 - 관련된 비율
 4. Section 3.9 - 선형 근사와 미분
-5. Chapter 3. 도함수 복습
+5. Chapter 3. 도함수 복습(~ing)
