@@ -676,3 +676,5 @@
 1. Section 6.4 - 근사 적분
 2. Section 6.5 - 이상적분
 3. Chapter 6. 적분법 복습
+4. Section 7.1 - 곡선 사이의 넓이
+5. Section 7.2 - 부피(~ing)
