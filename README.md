@@ -677,4 +677,21 @@
 2. Section 6.5 - 이상적분
 3. Chapter 6. 적분법 복습
 4. Section 7.1 - 곡선 사이의 넓이
-5. Section 7.2 - 부피(~ing)
+5. Section 7.2 - 부피
+
+### 2023년 1월 22일
+1. Section 7.3 - 원통껍질에 의한 부피
+2. Section 7.4 - 호의 길이
+3. Section 7.5 - 회전체의 곡면 넓이
+4. Chapter 7. 적분의 응용 복습
+5. Section 8.1 - 수열
+6. Section 8.2 - 급수
+7. Section 8.3 - 적분 판정법과 비교 판정법
+8. Section 8.4 - 다른 수렴 판정법들
+9. Section 8.5 - 거듭제곱급수
+10. Section 8.6 - 함수를 거듭제곱급수로 표현하기
+
+### 2023년 1월 23일
+1. Section 8.7 - 테일러 급수와 매클로린 급수
+2. Section 8.8 - 테일러 다항식의 응용
+3. Chapter 8. 급수 복습(~ing)
