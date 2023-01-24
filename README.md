@@ -701,4 +701,4 @@
 2. Section 9.2 - 극좌표
 3. Section 9.3 - 행렬과 행렬식
 4. Section 9.4 - 벡터
-5. Section 9.5 - 내적과 외적(~ing)
+5. Section 9.5 - 내적과 외적
