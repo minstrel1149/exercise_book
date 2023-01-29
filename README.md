@@ -727,4 +727,4 @@
 1. Section 11.4 - 삼중적분
 2. Section 11.5 - 원기둥좌표에서 삼중적분
 3. Section 11.6 - 구면좌표에서 삼중적분
-4. Chapter 11. 중적분 복습(~ing)
+4. Chapter 11. 중적분 복습
