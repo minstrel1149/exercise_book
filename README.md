@@ -731,3 +731,5 @@
 5. Section 1.1 - 함수의 정의와 표현 방법
 6. Section 1.2 - 꼭 필요한 함수 목록
 7. Section 1.3 - 함수의 극한
+8. Section 1.4 - 극한 계산
+9. Section 1.5 - 연속성
