@@ -738,3 +738,6 @@
 1. Section 1.6 - 무한대를 수반하는 극한
 2. Section 2.1 - 역함수
 3. Section 2.2 - 지수함수
+4. Section 2.3 - 로그함수
+5. Section 2.4 - 역삼각함수
+6. Section 2.5 - 쌍곡선함수
