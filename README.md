@@ -764,3 +764,4 @@
 2. Section 4.4 - 곡선 그리기
 3. Section 4.5 - 부정형과 로피탈 법칙
 4. Section 4.6 - 최적화 문제
+5. Section 4.7 - 역도함수
