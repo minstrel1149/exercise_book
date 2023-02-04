@@ -770,4 +770,5 @@
 1. Chapter.3 - 도함수 복습
 2. Chapter.4 - 도함수의 응용 복습
 3. Section 5.1 - 넓이
-4. Section 5.2 - 정적분(~ing)
+4. Section 5.2 - 정적분
+5. Section 5.3 - 정적분 계산하기
