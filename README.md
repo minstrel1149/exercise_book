@@ -772,3 +772,6 @@
 3. Section 5.1 - 넓이
 4. Section 5.2 - 정적분
 5. Section 5.3 - 정적분 계산하기
+6. Section 5.4 - 미적분학의 기본 정리
+7. Section 5.5 - 치환법
+8. Section 6.1 - 부분적분법
