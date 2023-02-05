@@ -785,3 +785,4 @@
 4. Section 7.2 - 부피
 5. Section 7.3 - 원통껍질에 의한 부피
 6. Section 7.4 - 호의 길이
+7. Section 7.5 - 회전체의 곡면 넓이
