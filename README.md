@@ -792,4 +792,5 @@
 2. Chapter 6. 적분법 복습(~ing)
 
 ### 2023년 2월 7일
-1. Chapter 6. 적분법 복습(~ing)
+1. Chapter 6. 적분법 복습
+2. Chapter 7. 적분의 응용 복습(~ing)
