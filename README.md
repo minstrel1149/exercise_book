@@ -868,4 +868,5 @@
 1. Chapter 1. The war for/on talent - 인재 쟁탈/관리전
 2. Chapter 2. Defining talent - 재능 정의하기
 3. Chapter 3. Measuring talent - 재능 측정하기
-4. Chapter 4. Engaging talent - 몰입하는 재능에 대해서(~ing)
+4. Chapter 4. Engaging talent - 몰입하는 재능에 대해서
+5. Chapter 5. Developing talent - 재능 개발하기
