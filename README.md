@@ -861,3 +861,9 @@
 ### 2023년 2월 19일
 1. Part 3. See : 결과 분석, 결과 공유
 2. Part 4. Follow-up : 평가 후 피드백 면담, 자기개발계획 작성, 결과의 활용
+
+
+## 인재 망상
+### 2023년 2월 19일
+1. Chapter 1. The war for/on talent - 인재 쟁탈/관리전
+2. Chapter 2. Defining talent - 재능 정의하기(~ing)
