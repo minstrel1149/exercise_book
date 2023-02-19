@@ -866,4 +866,5 @@
 ## 인재 망상
 ### 2023년 2월 19일
 1. Chapter 1. The war for/on talent - 인재 쟁탈/관리전
-2. Chapter 2. Defining talent - 재능 정의하기(~ing)
+2. Chapter 2. Defining talent - 재능 정의하기
+3. Chapter 3. Measuring talent - 재능 측정하기(~ing)
