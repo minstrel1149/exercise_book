@@ -870,3 +870,6 @@
 3. Chapter 3. Measuring talent - 재능 측정하기
 4. Chapter 4. Engaging talent - 몰입하는 재능에 대해서
 5. Chapter 5. Developing talent - 재능 개발하기
+
+### 2023년 2월 20일
+1. Chapter 6. The dark side of talent - 재능의 어두운 면(~ing)
