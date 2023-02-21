@@ -874,3 +874,6 @@
 ### 2023년 2월 20일
 1. Chapter 6. The dark side of talent - 재능의 어두운 면
 2. Chapter 7. The future of talent - 재능의 미래
+
+### 2023년 2월 21일
+1. Chapter 8. Final thoughts - 결론
