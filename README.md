@@ -877,4 +877,6 @@
 
 ### 2023년 2월 21일
 1. Chapter 8. Final thoughts - 결론
-2. 전체 책 다시 읽기(~ing 1)
+2. Chapter 1. The war for/on talent - 인재 쟁탈/관리전
+3. Chapter 2. Defining talent - 재능 정의하기
+4. Chapter 3. Measuring talent - 재능 측정하기
