@@ -877,3 +877,4 @@
 
 ### 2023년 2월 21일
 1. Chapter 8. Final thoughts - 결론
+2. 전체 책 다시 읽기(~ing 1)
