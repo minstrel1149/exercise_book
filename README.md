@@ -882,3 +882,4 @@
 4. Chapter 3. Measuring talent - 재능 측정하기
 5. Chapter 4. Engaging talent - 몰입하는 재능에 대해서
 6. Chapter 5. Developing talent - 재능 개발하기
+7. Chapter 6. The dark side of talent - 재능의 어두운 면
