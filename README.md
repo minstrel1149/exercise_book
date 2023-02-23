@@ -886,3 +886,6 @@
 
 ### 2023년 2월 22일
 1. Chapter 7. The future of talent - 재능의 미래
+
+### 2023년 2월 23일
+1. Chapter 8. Final thoughts - 결론
