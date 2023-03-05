@@ -910,4 +910,4 @@
 1. Test 2. Voca and Grammar 복습
 2. Test 2. Listening 문제 풀이
 3. Test 2. Reading 문제 풀이
-4. Test 2. Listening 복습(~ing)
+4. Test 2. Listening 복습
