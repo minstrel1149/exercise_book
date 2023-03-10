@@ -926,4 +926,5 @@
 1. Test 4. Voca and Grammar 복습
 
 ### 2023년 3월 10일
-1. Test 1 ~ Test 4 단어 복습
+1. Test 1 ~ Test 4 Voca and Grammar 파트 단어 복습
+2. Test 1 ~ Test 3 Listening 파트 단어 복습
