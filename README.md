@@ -931,3 +931,10 @@
 
 ### 2023년 3월 11일
 1. Test 1 ~ Test 3 Voca and Grammar, Listening 파트 단어 복습
+
+
+## 김기현의 딥러닝 부트캠프 with 파이토치
+### 2023년 3월 12일
+1. Chapter 2.1 - 딥러닝이란?
+2. Chapter 2.2 - 좋은 인공지능이란?
+3. Chapter 2.3 - 머신러닝 프로젝트 워크플로
