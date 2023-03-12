@@ -947,3 +947,4 @@
 10. Chapter 4.1 - 행렬 곱
 11. Chapter 4.3 - 선형 계층
 12. Chapter 5.1 - 평균제곱오차 및 MSE Loss
+13. Chapter 6.1 - 미분이란? 및 편미분
