@@ -942,3 +942,5 @@
 5. Chapter 3.3 - 텐서란?
 6. Chapter 3.4 - 텐서 기본 연산
 7. Chapter 3.5 - 텐서 형태 변환
+8. Chapter 3.6 - 텐서 자르기 및 붙이기
+9. Chapter 3.7 - 유용한 함수들(~ing)
