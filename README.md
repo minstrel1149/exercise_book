@@ -946,3 +946,4 @@
 9. Chapter 3.7 - 유용한 함수들
 10. Chapter 4.1 - 행렬 곱
 11. Chapter 4.3 - 선형 계층
+12. Chapter 5.1 - 평균제곱오차 및 MSE Loss
