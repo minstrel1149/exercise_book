@@ -948,3 +948,8 @@
 11. Chapter 4.3 - 선형 계층
 12. Chapter 5.1 - 평균제곱오차 및 MSE Loss
 13. Chapter 6.1 - 미분이란? 및 편미분
+
+### 2023년 3월 13일
+1. Chapter 6.3 - 경사하강법
+2. Chapter 6.4 - 학습률에 따른 성질
+3. Chapter 6.5 - 경사하강법 구현(~ing)
