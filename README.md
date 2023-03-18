@@ -978,3 +978,5 @@
 ### 2023년 3월 18일
 1. Chapter 10.1 - 확률적 경사하강법(Stochastic Gradient Descent)이란?
 2. Chapter 10.4 - SGD 적용하기
+3. Chapter 11.1 - 하이퍼파라미터란?
+4. Chapter 11.3 - 적응형 학습률
