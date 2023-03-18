@@ -974,3 +974,7 @@
 2. Chapter 9.3 - 역전파 알고리즘의 수식
 3. Chapter 9.4 - 그래디언트 소실과 ReLU
 4. Chapter 9.6 - Deep Regression
+
+### 2023년 3월 18일
+1. Chapter 10.1 - 확률적 경사하강법(Stochastic Gradient Descent)이란?
+2. Chapter 10.4 - SGD 적용하기
