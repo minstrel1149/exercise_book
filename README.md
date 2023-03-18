@@ -933,7 +933,7 @@
 1. Test 1 ~ Test 3 Voca and Grammar, Listening 파트 단어 복습
 
 ### 2023년 3월 18일
-1. Test 4. Listening 복습(~ing)
+1. Test 4. Listening 복습
 
 
 ## 김기현의 딥러닝 부트캠프 with 파이토치
