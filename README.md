@@ -996,3 +996,4 @@
 8. Chapter 14.3 - Data Augmentation
 9. Chapter 14.4 - Dropout
 10. Chapter 14.5 - Batch Normalization
+11. Chapter 14.6 - Regularization
