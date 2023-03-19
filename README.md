@@ -984,3 +984,6 @@
 6. Chapter 12.1 - 모델 평가하기와 오버피팅
 7. Chapter 12.4 - 데이터 나누기
 8. Chapter 13.1 - 이진 분류와 평가 지표
+
+### 2023년 3월 19일
+1. Chapter 13.3 - Deep Binary Classification
