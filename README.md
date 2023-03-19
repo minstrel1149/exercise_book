@@ -995,3 +995,4 @@
 7. Chapter 14.2 - Weight decay
 8. Chapter 14.3 - Data Augmentation
 9. Chapter 14.4 - Dropout
+10. Chapter 14.5 - Batch Normalization
