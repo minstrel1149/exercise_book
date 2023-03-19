@@ -990,3 +990,4 @@
 2. Chapter 13.4 - 심층신경망을 활용한 분류
 3. Chapter 13.5 - 소프트맥스 함수와 Cross-Entropy 손실 함수
 4. Chapter 13.6 - 다중 클래스 분류 결과 분석하기
+5. Chapter 13.7 - Deep Classification
