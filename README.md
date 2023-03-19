@@ -991,3 +991,7 @@
 3. Chapter 13.5 - 소프트맥스 함수와 Cross-Entropy 손실 함수
 4. Chapter 13.6 - 다중 클래스 분류 결과 분석하기
 5. Chapter 13.7 - Deep Classification
+6. Chapter 14.1 - 정규화의 개요
+7. Chapter 14.2 - Weight decay
+8. Chapter 14.3 - Data Augmentation
+9. Chapter 14.4 - Dropout
