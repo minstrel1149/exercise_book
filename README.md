@@ -936,7 +936,7 @@
 1. Test 4. Listening 복습
 
 ### 2023년 3월 20일
-1. Test 5. Listening 복습
+1. Test 5. Listening 복습(continue)
 
 
 ## 김기현의 딥러닝 부트캠프 with 파이토치
