@@ -936,7 +936,7 @@
 1. Test 4. Listening 복습
 
 ### 2023년 3월 20일
-1. Test 5. Listening 복습(continue)
+1. Test 5. Listening 복습
 
 
 ## 김기현의 딥러닝 부트캠프 with 파이토치
@@ -1000,3 +1000,6 @@
 9. Chapter 14.4 - Dropout
 10. Chapter 14.5 - Batch Normalization
 11. Chapter 14.6 - Regularization
+
+### 2023년 3월 21일
+1. Chapter 15.1 - 실무를 진행하듯 실습하기
