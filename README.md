@@ -1009,3 +1009,4 @@
 
 ### 2023년 3월 22일
 1. Chapter 15.7 - train.py 구현하기
+2. Chapter 15.8 - predict.ipynb 구현하기
