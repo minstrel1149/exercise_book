@@ -1010,3 +1010,6 @@
 ### 2023년 3월 22일
 1. Chapter 15.7 - train.py 구현하기
 2. Chapter 15.8 - predict.ipynb 구현하기
+3. Chapter 16.1 - 특성(Feature)이란?
+4. Chapter 16.2 - One-Hot Encoding
+5. Chapter 16.3 - 차원 축소: PCA와 Auto Encoder
