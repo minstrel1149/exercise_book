@@ -1016,3 +1016,4 @@
 6. Chapter 17.2 - 기본 확률 통계
 7. Chapter 17.4 - 신경망과 MLE
 8. Chapter 18.2 - 합성곱 연산
+9. Chapter 18.4 - max-pooling 및 stride 기법
