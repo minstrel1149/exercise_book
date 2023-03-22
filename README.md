@@ -1013,3 +1013,6 @@
 3. Chapter 16.1 - 특성(Feature)이란?
 4. Chapter 16.2 - One-Hot Encoding
 5. Chapter 16.3 - 차원 축소: PCA와 Auto Encoder
+6. Chapter 17.2 - 기본 확률 통계
+7. Chapter 17.4 - 신경망과 MLE
+8. Chapter 18.2 - 합성곱 연산
