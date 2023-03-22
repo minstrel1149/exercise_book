@@ -1017,3 +1017,4 @@
 7. Chapter 17.4 - 신경망과 MLE
 8. Chapter 18.2 - 합성곱 연산
 9. Chapter 18.4 - max-pooling 및 stride 기법
+10. Chapter 18.6 - CNN으로 MNIST 분류 구현하기
