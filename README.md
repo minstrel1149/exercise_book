@@ -1024,3 +1024,4 @@
 1. Chapter 19.3 - RNN 활용 사례
 2. Chapter 19.4 - LSTM
 3. Chapter 19.5 - 그래디언트 클리핑
+4. Chapter 19.6 - LSTM으로 MNIST 분류 구현하기
