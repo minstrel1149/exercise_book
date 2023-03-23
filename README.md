@@ -1019,3 +1019,8 @@
 9. Chapter 18.4 - max-pooling 및 stride 기법
 10. Chapter 18.6 - CNN으로 MNIST 분류 구현하기
 11. Chapter 19.2 - RNN 들여다보기
+
+### 2023년 3월 23일
+1. Chapter 19.3 - RNN 활용 사례
+2. Chapter 19.4 - LSTM
+3. Chapter 19.5 - 그래디언트 클리핑
