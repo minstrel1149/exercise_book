@@ -1032,3 +1032,4 @@
 3. Chapter 15.6 - 트레이너 클래스 구현하기
 4. Chapter 15.7 - train.py 구현하기
 5. Chapter 15.8 - predict.ipynb 구현하기
+6. Chapter 18.6 - CNN으로 MNIST 분류 구현하기
