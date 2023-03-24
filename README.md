@@ -1025,3 +1025,10 @@
 2. Chapter 19.4 - LSTM
 3. Chapter 19.5 - 그래디언트 클리핑
 4. Chapter 19.6 - LSTM으로 MNIST 분류 구현하기
+
+### 2023년 3월 24일
+1. Chapter 15.4 - 분류기 모델 구현하기
+2. Chapter 15.5 - 데이터 로딩 구현하기
+3. Chapter 15.6 - 트레이너 클래스 구현하기
+4. Chapter 15.7 - train.py 구현하기
+5. Chapter 15.8 - predict.ipynb 구현하기
