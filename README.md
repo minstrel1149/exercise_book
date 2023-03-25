@@ -939,6 +939,11 @@
 1. Test 5. Listening 복습
 
 
+## TOEFL MAP Reading Intermediate
+### 2023년 3월 25일
+1. Part A. Understanding Reading Question Type(~ing)
+
+
 ## 김기현의 딥러닝 부트캠프 with 파이토치
 ### 2023년 3월 12일
 1. Chapter 2.1 - 딥러닝이란?
