@@ -941,7 +941,7 @@
 
 ## TOEFL MAP Reading Intermediate
 ### 2023년 3월 25일
-1. Part A. Understanding Reading Question Type(~ing)
+1. Part A. Understanding Reading Question Type
 
 
 ## 김기현의 딥러닝 부트캠프 with 파이토치
@@ -1038,3 +1038,6 @@
 4. Chapter 15.7 - train.py 구현하기
 5. Chapter 15.8 - predict.ipynb 구현하기
 6. Chapter 18.6 - CNN으로 MNIST 분류 구현하기
+
+### 2023년 3월 25일
+1. Chapter 19.6 - LSTM으로 MNIST 분류 구현하기
