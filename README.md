@@ -1043,3 +1043,5 @@
 1. Chapter 19.6 - LSTM으로 MNIST 분류 구현하기
 2. Chapter 2. 딥러닝 소개
 3. Chapter 3. 파이토치 튜토리얼
+4. Chapter 4. 선형 계층
+5. Chapter 5. 손실 함수
