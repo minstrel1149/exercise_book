@@ -1045,3 +1045,4 @@
 3. Chapter 3. 파이토치 튜토리얼
 4. Chapter 4. 선형 계층
 5. Chapter 5. 손실 함수
+6. Chapter 6. 경사하강법
