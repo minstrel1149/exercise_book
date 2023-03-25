@@ -1046,3 +1046,4 @@
 4. Chapter 4. 선형 계층
 5. Chapter 5. 손실 함수
 6. Chapter 6. 경사하강법
+7. Chapter 7. 선형 회귀
