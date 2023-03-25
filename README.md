@@ -1047,3 +1047,4 @@
 5. Chapter 5. 손실 함수
 6. Chapter 6. 경사하강법
 7. Chapter 7. 선형 회귀
+8. Chapter 8. 로지스틱 회귀
