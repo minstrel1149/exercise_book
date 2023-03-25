@@ -1042,4 +1042,4 @@
 ### 2023년 3월 25일
 1. Chapter 19.6 - LSTM으로 MNIST 분류 구현하기
 2. Chapter 2. 딥러닝 소개
-3. Chapter 3. 파이토치 튜토리얼(~ing)
+3. Chapter 3. 파이토치 튜토리얼
