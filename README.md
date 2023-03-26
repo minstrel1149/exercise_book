@@ -1054,3 +1054,4 @@
 2. Chapter 10. 확률적 경사하강법
 3. Chapter 11. 최적화
 4. Chapter 12. 오버피팅을 방지하는 방법
+5. Chapter 13. 심층신경망 II(~ing)
