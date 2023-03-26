@@ -1049,3 +1049,4 @@
 7. Chapter 7. 선형 회귀
 8. Chapter 8. 로지스틱 회귀
 9. Chapter 9. 심층신경망
+10. Chapter 10. 확률적 경사하강법
